@@ -1,0 +1,27 @@
+{
+  "name": "CAPS",
+  "version": "1.0.0",
+  "description": "401-Lab-12",
+  "main": "caps.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jennerdulce/CAPS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jennerdulce/CAPS/issues"
+  },
+  "homepage": "https://github.com/jennerdulce/CAPS#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "i": "^0.3.6",
+    "npm": "^7.7.6",
+    "socket.io": "^2.4.1",
+    "socket.io-client": "^2.4.0"
+  }
+}
